@@ -1,2 +1,1 @@
-# goit-markup-hw-06
-GoIT homework
+GoIT JS Module1 homework
